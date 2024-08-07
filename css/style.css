@@ -7273,8 +7273,8 @@ body {
   font-size: 15px;
   line-height: 1.8;
   font-weight: 300;
-  color: gray;
-  background: url(../images/bg_4.jpg) no-repeat fixed;
+  color:#000;
+  background: url(..images/img-exp-8.png) no-repeat fixed;
   background-size: cover; }
   body.menu-show {
     overflow: hidden;
@@ -7771,7 +7771,7 @@ h1, h2, h3, h4, h5,
 .ftco-intro .wrap {
   width: 100%; }
   .ftco-intro .wrap .info {
-    background: #000;
+    background: #fff;
     padding: 30px; }
     @media (min-width: 1200px) {
       .ftco-intro .wrap .info {
@@ -7820,7 +7820,7 @@ h1, h2, h3, h4, h5,
 
 .ftco-services {
   color: #1d150b;
-  background: #05ef1a; }
+  background: #fff; }
   .ftco-services .heading-section h2 {
     color: black; }
 
